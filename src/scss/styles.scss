@@ -1,0 +1,19 @@
+// 
+// Styles
+// 
+
+// Import variables
+@import "variables";
+
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap.scss";
+
+// Global CSS
+@import "global";
+
+// Components
+@import "components/buttons";
+@import "components/navbar";
+
+// Sections
+@import "sections/masthead";

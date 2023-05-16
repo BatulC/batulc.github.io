@@ -1,0 +1,47 @@
+// 
+// Global
+// 
+
+// Scroll padding for all scroll targets on page used with
+// native CSS smooth scrolling
+// 
+// https://caniuse.com/?search=scroll-padding
+
+html {
+    scroll-padding-top: 67px;
+    color: #efe3d6;
+}
+
+body {
+    color: #efe3d6;
+    font-weight: 500;
+}
+
+h1 {
+    color: #F76C5E;
+    font-size: 4rem;
+    font-weight: 700;
+
+}
+h2 {
+    color: #f68e5f;
+    font-weight: 800;
+}
+
+h3.display-4 {
+    color: #586ba4;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+h2.display-4{
+    font-weight: 700;
+}
+
+p {
+    color: #586ba4;
+}
+
+footer{
+ background: #727b9c;
+}
